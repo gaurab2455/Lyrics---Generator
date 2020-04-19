@@ -1,4 +1,4 @@
-# Lyrics---Generator
+# Lyrics Generator
 Generates new text Text/Lyrics/Story using Markov Chain for Text Generation(NLP)
 
 ## About Markov chains
